@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "nom run start"
+    "start": "nom run start main.js"
   },
   "devDependencies": {
     "vite": "^4.0.0"
